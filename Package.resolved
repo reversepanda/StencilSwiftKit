@@ -23,9 +23,9 @@
         "package": "Stencil",
         "repositoryURL": "https://github.com/stencilproject/Stencil.git",
         "state": {
-          "branch": "master",
-          "revision": "9c3468e300ba75ede0d7eb4c495897e0ac3591c3",
-          "version": null
+          "branch": null,
+          "revision": "94197b3adbbf926348ad8765476a158aa4e54f8a",
+          "version": "0.14.0"
         }
       }
     ]
